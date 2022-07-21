@@ -7,14 +7,20 @@ Artifacts related to the Robb Elementary School Attack that took place in Uvalde
 * [Investigative committee on the Robb Elementary Shooting: Interim Report 2022](interim-report.pdf)
 * [ALERRT: Robb Elementary School Attack Response Assessment and Recommendations](alerrt.pdf)
 
-## Other docs
+## Images
 
-Source: https://twitter.com/TxDPS/status/1539256179234332673
+Source: Twitter feed of Texas Department of Public Safety.
+
+* https://twitter.com/TxDPS/status/1539256179234332673
+* https://twitter.com/TxDPS/status/1539311019440635904
 
 * [Diagram of classrooms](diagram.jpg)
 * [Photo from above](outside.jpg)
 * [Timeline](timeline.jpg)
 * [Transcript: conversation between Chief Arredondo and Dispatcher](transcript.jpg)
+* [West entrace exterior door (outside)](exterior-door-outside.jpg)
+* [West entrace exterior door (inside)](exterior-door-inside.jpg)
+* [Classroom doors](classroom-doors.jpg)
 
 ## Videos
 
