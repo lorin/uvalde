@@ -9,11 +9,6 @@ Artifacts related to the Robb Elementary School Attack that took place in Uvalde
 
 ## Images
 
-Source: Twitter feed of Texas Department of Public Safety.
-
-* https://twitter.com/TxDPS/status/1539256179234332673
-* https://twitter.com/TxDPS/status/1539311019440635904
-
 * [Diagram of classrooms](diagram.jpg)
 * [Photo from above](outside.jpg)
 * [Timeline](timeline.jpg)
@@ -21,6 +16,12 @@ Source: Twitter feed of Texas Department of Public Safety.
 * [West entrace exterior door (outside)](exterior-door-outside.jpg)
 * [West entrace exterior door (inside)](exterior-door-inside.jpg)
 * [Classroom doors](classroom-doors.jpg)
+
+
+Source: Twitter account of the Texas Department of Public Safety (@TxDPS):
+
+* https://twitter.com/TxDPS/status/1539256179234332673
+* https://twitter.com/TxDPS/status/1539311019440635904
 
 ## Videos
 
