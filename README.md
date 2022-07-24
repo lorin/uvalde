@@ -9,12 +9,13 @@ Artifacts related to the Robb Elementary School Attack that took place in Uvalde
 
 ## Images
 
+
 * [Diagram of classrooms](diagram.jpg)
 * [Photo from above](outside.jpg)
 * [Timeline](timeline.jpg)
 * [Transcript: conversation between Chief Arredondo and Dispatcher](transcript.jpg)
-* [West entrace exterior door (outside)](exterior-door-outside.jpg)
-* [West entrace exterior door (inside)](exterior-door-inside.jpg)
+* [West entrance exterior door (outside)](exterior-door-outside.jpg)
+* [West entrance exterior door (inside)](exterior-door-inside.jpg)
 * [Classroom doors](classroom-doors.jpg)
 
 
